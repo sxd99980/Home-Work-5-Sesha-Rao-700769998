@@ -106,18 +106,6 @@ This question covers solutions to ethical issues:
 
 ---
 
-## ✔ Submission Requirements Check
-| Requirement | Status |
-|------------|:-----:|
-| Student info in README | ✅ |
-| Explanation of work | ✅ |
-| PDF answers completed | ✅ |
-| Ready for GitHub/ Brightspace submission | ✅ |
 
----
-
-## 📧 Contact
-For academic queries:  
-**Student:** Duggineni Sesha Rao (CS & Cybersecurity)
 
 ---
