@@ -1,7 +1,7 @@
 # CS5760 – Homework 5  
 **Natural Language Processing – Fall 2025**  
 **University of Central Missouri**  
-**Department of Computer Science & Cybersecurity**  
+**Department of Data Science &Ai**  
 
 **Student Name:** Duggineni Sesha Rao  
 
